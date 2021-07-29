@@ -1,7 +1,6 @@
 # multi-goal-social-force-model
-numpy impelementation of MSFM
 
-SFMProject is a python project for social force model
+SFMProject is a python project implementation of social force model
 
 pysocialforce is the social force module
 
